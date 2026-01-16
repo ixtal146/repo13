@@ -2,3 +2,5 @@
 hello 
 hi 
 bye
+can 
+we
